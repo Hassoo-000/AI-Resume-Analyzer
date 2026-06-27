@@ -124,23 +124,23 @@ npm start
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.JPG)
 
 ### 🔐 Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/login.JPG)
 
 ### 📝 Register
 
-![Register](screenshots/register.png)
+![Register](screenshots/register.JPG)
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.JPG)
 
 ### 🤖 Resume Analysis
 
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/analysis.JPG)
 
 ---
 
