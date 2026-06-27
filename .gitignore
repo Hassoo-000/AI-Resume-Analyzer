@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.*
+client/.env
+server/.env
+
+# build folders
+dist/
+build/
+
+# logs
+*.log
+
+# uploads (optional if generated files)
+uploads/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
